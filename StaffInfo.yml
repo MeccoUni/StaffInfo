@@ -1,19 +1,45 @@
 Categories:
-  Staff Info:
-- - Who are the managers for the program? / Who are the instructors for the program?
+-Staff Info
+Conversations:
+- - Who are the managers for the program?
   - Program Managers: Ernest Maynard (Site Manager), Sunnie (Program Manager), Mx. Kit (Employee Engagement Coordinator), and Ethan Wang (Assistant Manager).
     Work-Group Managers: Elia Deppe, Brook Daba, Danee Dunlop, Alex Adkins, Jacob Ferragamo, John Flannery
-- - Who is the manager for <insert track>? / Who is the instructor for <insert track>?
-  - Python
-    The manager for Intro to Python (In-Person) is Danee Dunlop
-    The manager for Intro to Python (Virtual) is Brook Daba.
-    The manager for Advanced Python (Virtual) is Elia Deppe.
-    Game Development/ Game Dev
-    The manager for Intro to Game Development (In-Person) is Alex Adkins.
-    The manager for Intermediate Game Development (Virtual) is Jacob Ferragamo.
-    The manager for Advanced Game Development (Virtual) is John Flannery.
-    Web Development/ Web Dev
-    The manager for Web Development (In Person) is Cliff Weaver.
-    The manager for Web Development (Virtual) is Fasukuwa Kamanda.
-- - How do the managers interact with developers? / How do the instructors interact with the students?
+- - Who are the instructors for the program?
+  - Program Managers: Ernest Maynard (Site Manager), Sunnie (Program Manager), Mx. Kit (Employee Engagement Coordinator), and Ethan Wang (Assistant Manager).
+    Work-Group Managers: Elia Deppe, Brook Daba, Danee Dunlop, Alex Adkins, Jacob Ferragamo, John Flannery
+- - Who is the manager for Intro to Python (In-Person)?
+  - The manager for Intro to Python (In-Person) is Danee Dunlop
+- - Who is the manager for Intro to Python (Virtual)?
+  - The manager for Intro to Python (Virtual) is Brook Daba.
+- - Who is the manager for Advanced Python (Virtual)?
+  - The manager for Advanced Python (Virtual) is Elia Deppe.
+- - Who is the manager for Intro to Game Development (In-Person)?
+  - The manager for Intro to Game Development (In-Person) is Alex Adkins.
+- - Who is the manager for Intermediate Game Development (Virtual)?
+  - The manager for Intermediate Game Development (Virtual) is Jacob Ferragamo.
+- - Who is the manager for Advanced Game Development (Virtual)?
+  - The manager for Advanced Game Development (Virtual) is John Flannery.
+- - Who is the manager for Web Development (In Person)?
+  - The manager for Web Development (In Person) is Cliff Weaver.
+- - Who is the manager for Web Development (Virtual)?
+  - The manager for Web Development (Virtual) is Fasukuwa Kamanda.
+- - Who is the instructor for Intro to Python (In-Person)?
+  - The instructor for Intro to Python (In-Person) is Danee Dunlop
+- - Who is the instructor for Intro to Python (Virtual)?
+  - The instructor for Intro to Python (Virtual) is Brook Daba.
+- - Who is the instructor for Advanced Python (Virtual)?
+  - The instructor for Advanced Python (Virtual) is Elia Deppe.
+- - Who is the instructor for Intro to Game Development (In-Person)?
+  - The instructor for Intro to Game Development (In-Person) is Alex Adkins.
+- - Who is the instructor for Intermediate Game Development (Virtual)?
+  - The instructor for Intermediate Game Development (Virtual) is Jacob Ferragamo.
+- - Who is the instructor for Advanced Game Development (Virtual)?
+  - The instructor for Advanced Game Development (Virtual) is John Flannery.
+- - Who is the instructor for Web Development (In Person)?
+  - The instructor for Web Development (In Person) is Cliff Weaver.
+- - Who is the instructor for Web Development (Virtual)?
+  - The instructor for Web Development (Virtual) is Fasukuwa Kamanda.
+- - How do the managers interact with developers?
+  - The managers interact with the developers by teaching the developers the topics in which they signed up for.
+- - How do the instructors interact with the students?
   - The managers interact with the developers by teaching the developers the topics in which they signed up for.
